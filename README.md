@@ -1,2 +1,3 @@
-# mightknow.com
-website source for mightknow.com
+# MightKnow
+
+Resources relating to mightknow.com
